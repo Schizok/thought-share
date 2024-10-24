@@ -116,7 +116,7 @@ export default function Component() {
         <Card className="w-full">
           <CardHeader className="text-center">
             <p className="text-lg italic font-serif">
-              "To share a thought is to ease the mind, letting it rest in the release. In the quiet that follows, those words may take flight, offering others understanding, inspiration, or the simple comfort of knowing they are not alone"
+            &quot;To share a thought is to ease the mind, letting it rest in the release. In the quiet that follows, those words may take flight, offering others understanding, inspiration, or the simple comfort of knowing they are not alone"&quot;
             </p>
           </CardHeader>
 

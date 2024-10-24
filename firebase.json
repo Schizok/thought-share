@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": "thought-share",
+    "source": ".",
     "ignore": [
       "firebase.json",
       "**/.*",
